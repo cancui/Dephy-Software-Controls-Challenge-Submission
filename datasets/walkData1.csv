@@ -1,4 +1,3 @@
-[Datalogging: Item = 0 | Slave index = 0 (Execute 1) | Experiment index = 0 (Read All (Barebone))]
 Timestamp,Timestamp (ms),accel.x,accel.y,accel.z,gyro.x,gyro.y,gyro.z,strain,analog_0,analog_1,current,enc-disp,enc-cont,enc-comm,VB,VG,Temp,Status1,Status2
 Mon Sep 26 15:14:38 2016,2,-3804,526,7102,66,2,-31,13203,1067,1021,444,0,0,0,199,206,131,2,1
 Mon Sep 26 15:14:38 2016,7,-3802,522,7068,58,0,-22,13264,1068,1022,445,0,0,0,199,206,131,2,1
